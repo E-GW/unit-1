@@ -123,4 +123,4 @@ function debugAjax(){
 }
 
 //calls the function.
-debugAjax();
+debugAjax(); 
